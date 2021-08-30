@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @assisjoao
 - 👀 I’m interested in development and software engineering.
-- 🌱 I’m currently learning JavaScript, Node.js, HTML, CSS, Python and React.
+- 🌱 I’m currently learning JavaScript, React, Node.js, Typescript, HTML, CSS and Python.
 - 📫 My personal email: joaocarlosdeassis@poli.ufrj.br
 
 <!---
