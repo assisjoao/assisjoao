@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @assisjoao
+- 👋 Hi, I’m @assisjoao work as Tech Sourcer | Technical Sourcer
 - 👀 I’m interested in development and software engineering.
 - 🌱 I’m currently learning JavaScript, React, Node.js, Typescript, HTML, CSS and Python.
 - 📫 My personal email: joaocarlosdeassis@poli.ufrj.br
